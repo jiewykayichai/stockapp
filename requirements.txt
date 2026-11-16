@@ -1,0 +1,7 @@
+streamlit>=1.37
+yfinance
+requests
+pandas
+altair
+gspread>=6.0
+google-auth
